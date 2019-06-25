@@ -15,9 +15,8 @@ to better get a hold(understanding) of this lib run help
 help(json.load)
 ```
 data = json.load(open("path/to/file-like-object-containing a JSON document"))
-
-[baderf@ ~InteractiveDictionary]$ python3
 ```
+[baderf@ ~InteractiveDictionary]$ python3
 >>> import json
 >>> help(json.load)
 >>> data = json.load(open("data.json"))

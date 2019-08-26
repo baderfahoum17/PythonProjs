@@ -30,6 +30,9 @@ Spoiler: the answer is JANE AUSTEN
 ```
 ### check out the code at scraping.py
 
+====================================================================================================
+
+
 
 # DictionaryApp
 as a side mission of a bigger project, an working simple Dictionary app in python

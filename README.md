@@ -1,3 +1,33 @@
+# Webscrapping game
+scrapping a web page for famous quotes, spicing it up with a little game
+the user needs to guess who said the randomly picked quote
+
+rules:
+1) got 7 attempts
+2) got 3 hints
+## all Using BeautifulSoup
+```
+  _____ _   _ _____    ____ _   _ _____ ____ ____ ___ _   _  ____ 
+ |_   _| | | | ____|  / ___| | | | ____/ ___/ ___|_ _| \ | |/ ___|
+   | | | |_| |  _|   | |  _| | | |  _| \___ \___ \| ||  \| | |  _ 
+   | | |  _  | |___  | |_| | |_| | |___ ___) |__) | || |\  | |_| |
+   |_| |_| |_|_____|  \____|\___/|_____|____/____/___|_| \_|\____|
+                                                                  
+  ____    _    __  __ _____  
+ / ___|  / \  |  \/  | ____| 
+| |  _  / _ \ | |\/| |  _|   
+| |_| |/ ___ \| |  | | |___  
+ \____/_/   \_\_|  |_|_____| 
+                             
+
+JANE AUSTEN JANE AUSTEN
+You got 7 attempts to try and guess the Quote Author!
+ ===== Picking out a random QUOTE!! HOW EXCITING ======
+“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”
+Provide a guess! enter HINT for help, can be used up to 3 times: ... 
+```
+
+
 # DictionaryApp
 as a side mission of a bigger project, an working simple Dictionary app in python
 

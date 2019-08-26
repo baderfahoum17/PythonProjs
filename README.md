@@ -20,12 +20,15 @@ rules:
  \____/_/   \_\_|  |_|_____| 
                              
 
-JANE AUSTEN JANE AUSTEN
+
 You got 7 attempts to try and guess the Quote Author!
  ===== Picking out a random QUOTE!! HOW EXCITING ======
 “I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”
 Provide a guess! enter HINT for help, can be used up to 3 times: ... 
+
+Spoiler: the answer is JANE AUSTEN
 ```
+### check out the code at scraping.py
 
 
 # DictionaryApp
